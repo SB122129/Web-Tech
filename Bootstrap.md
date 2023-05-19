@@ -1,4 +1,4 @@
-#SCSS
+# SCSS
 
 SCSS (Sass) is a powerful CSS preprocessor that enhances the capabilities of traditional CSS and allows developers to write more efficient and maintainable code. It introduces advanced features such as variables, nesting, mixins, and functions, which can simplify the development process and make it easier to create complex stylesheets.
 
