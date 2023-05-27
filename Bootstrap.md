@@ -99,9 +99,6 @@ Another advantage of SCSS is that it supports the use of variables, which can si
 
 SCSS is compiled into standard CSS code that can be used in web pages, making it a powerful tool for web development. By using SCSS, developers can create cleaner, more efficient, and more maintainable stylesheets, ultimately resulting in better websites and applications.
 
-## Bootstrap Summary
-
-Bootstrap is a popular front-end development framework that simplifies the creation of responsive websites and applications. It provides a set of pre-built CSS and JavaScript components that can be used to create layouts, navigation menus, forms, buttons, and much more.
 
 ### Containers
 
